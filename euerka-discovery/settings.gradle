@@ -1,0 +1,2 @@
+include 'service-registry', 'service-provider', 'service-consumer'
+

@@ -9,6 +9,6 @@ linux:~/service-discovery # ./gradlew bootRun
 # Test Web
 
 ```bash
-linux:~ # curl http://127.0.0.1:8761
+linux:~ # curl http://localhost:9098
 ```
 
