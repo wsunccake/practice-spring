@@ -1,8 +1,8 @@
 # Run Application
 
 ```bash
-linux:~/service-discovery # gradle wrapper
-linux:~/service-discovery # ./gradlew bootRun
+linux:~/service-provider # gradle wrapper
+linux:~/service-provider # ./gradlew bootRun
 ```
 
 

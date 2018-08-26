@@ -19,3 +19,6 @@
 
     eureka client
 
+  - euerka-discovery/service-feign-consumer
+
+    eureka client
