@@ -15,7 +15,7 @@
 
     eureka client
 
-  - euerka-discovery/service-consumer
+  - euerka-discovery/service-ribbon-consumer
 
     eureka client
 
