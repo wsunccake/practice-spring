@@ -1,0 +1,4 @@
+message: Dev version
+
+server:
+  port: 8899

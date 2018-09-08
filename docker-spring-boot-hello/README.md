@@ -1,6 +1,7 @@
 # Run Application
 
 ```bash
+linux:~/docker-spring-boot-hello # gradle wrapper
 linux:~/docker-spring-boot-hello # ./gradlew bootRun
 linux:~/docker-spring-boot-hello # ./gradlew bootRun -Dspring.output.ansi.enabled=always
 ```

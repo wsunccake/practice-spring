@@ -1,0 +1,4 @@
+message: Prd version
+
+server:
+  port: 8811

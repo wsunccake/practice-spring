@@ -5,6 +5,16 @@
     spring boot hello
 
 
+# Config With Local Path Example
+
+  - config-service/config-server
+
+    config server
+
+  - config-service/config-client
+
+    config client
+
 # Eureka Example
 
   - euerka-discovery/service-registry
