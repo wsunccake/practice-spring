@@ -1,0 +1,15 @@
+server:
+  port: 8088
+
+spring:
+  application:
+    name: circuit-breaker
+
+circuit-breaker:
+  message: Hello Circuit Breaker
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: hystrix.stream

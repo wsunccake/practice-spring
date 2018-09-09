@@ -5,6 +5,13 @@
     spring boot hello
 
 
+# Simple Hystrix Example
+
+  - hystrix-example
+
+    hystrix and hystrix dashboard
+
+
 # Config With Local Path Example
 
   - config-service/config-server
@@ -14,6 +21,7 @@
   - config-service/config-client
 
     config client
+
 
 # Eureka Example
 
