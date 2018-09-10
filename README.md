@@ -23,6 +23,17 @@
     config client
 
 
+# Zuul Example
+
+  - zuul-service/zuul-api
+
+    zuul api gateway
+
+  - zuul-service/web-service
+
+    web server
+
+
 # Eureka Example
 
   - euerka-discovery/service-registry
@@ -40,3 +51,4 @@
   - euerka-discovery/service-feign-consumer
 
     eureka client
+

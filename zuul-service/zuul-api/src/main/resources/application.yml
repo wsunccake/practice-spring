@@ -1,0 +1,15 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: zuul-api
+
+zuul:
+  routes:
+    api:
+      url: http://localhost:8088
+
+ribbon:
+  eureka:
+    enabled: false
