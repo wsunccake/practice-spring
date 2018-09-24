@@ -59,3 +59,9 @@
 
     access/write mysql
 
+# MongDB Example
+
+  - db-mongo
+
+    db-mongo
+
